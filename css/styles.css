@@ -1,0 +1,27 @@
+body {
+    font-family: OpenSans, sans-serif;
+    padding: 20px;
+}
+
+.wrapper {
+    margin: auto;
+    width: 800px;
+}
+
+.tryjslogo {
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    text-align: center;
+    font-size: 26px;
+    font-family: Harrington;
+    color: black;
+}
+/*
+#app {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    text-align: center;
+}
+*/
